@@ -1,6 +1,7 @@
 {
   "public": {
     "title": "Meteor on FHIR",
+    "baseUrl":"https://meteor-on-fhir.meteorapp.com/",
     "theme": {
       "showVideoBackground": false,
       "darkroomTextEnabled": false,
@@ -11,12 +12,10 @@
       "showUnderConstruction": false,
       "showExperimental": false,
       "showApps": true,      
-      "showFhirMenu": true,
-      "showRegistration": true
+      "showFhirMenu": true
     },
     "defaults": {
       "route": "/",
-      "requireAuthorization": true,
       "avatars": true,
       "barcodes": true,
       "hexgridMenu": false,
