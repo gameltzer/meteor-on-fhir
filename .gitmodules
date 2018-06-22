@@ -1,0 +1,3 @@
+[submodule "ideogram"]
+	path = ideogramLibrary
+	url = https://github.com/gameltzer/ideogram.git
